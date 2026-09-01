@@ -1,0 +1,19 @@
+Redesign the provided Android MusicPlayer prototype into a more premium, refined, modern interface while preserving the same single-screen layout and elderly-friendly large controls.
+
+Keep these functional elements clearly visible:
+- App title "MusicPlayer".
+- Current folder section in Chinese: "当前目录", path "存储 / Music / 评书", button "选择目录".
+- Next-folder continuation strip: "下个目录：相声精选" and "本目录播完自动继续".
+- Audio list with large rows: "第01回.mp3", "第02回.mp3", "第03回.mp3"; first row is currently playing.
+- Sleep timer section: "睡眠播放", slider marks "30", "60", "90", "120 分钟", default at 30 minutes, text "30 分钟后停止".
+- Bottom controls: large previous, play/pause, next, and volume controls if space allows.
+
+New visual direction:
+- Make it look more high-end and less earthy.
+- Avoid yellow-brown, orange, tan, beige-heavy, rustic, and old-fashioned colors.
+- Use a premium balanced palette: porcelain white background, deep graphite text, muted petrol teal primary buttons, cool blue-gray dividers, pale mist panels, tiny restrained champagne-metal accents only on highlights.
+- Buttons should still have a subtle tactile raised or recessed quality, but more refined: soft inner highlights, precise shadows, satin glass or anodized metal feel, no chunky toy-like styling.
+- Keep high contrast and large readable Chinese typography for elderly users.
+- Keep the screen clean, spacious, practical, and app-like. No marketing hero, no decorative blobs, no stock-photo background, no clutter.
+
+The final image should be a crisp high-fidelity Android mobile prototype screenshot, portrait orientation, with cleaner spacing and a more sophisticated visual hierarchy than the reference.

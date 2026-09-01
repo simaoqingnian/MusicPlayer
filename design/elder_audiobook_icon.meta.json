@@ -1,0 +1,33 @@
+{
+  "command": "generate",
+  "transport": "images",
+  "prompt": "Create a premium Android app launcher icon for an elderly audiobook player app. No text or letters. Centered symbol: an open book merged with soft over-ear headphones and two subtle audio waves. Elegant modern style with slight tactile raised/embossed neumorphic depth, rounded square composition, clean high-contrast shapes, accessible for older users. Sophisticated palette: deep teal, ivory, muted gold accents, soft slate shadows. Crisp edges, simple silhouette, recognizable at small sizes, no photorealistic scene, no background clutter.",
+  "request": {
+    "model": "gpt-image-2",
+    "size": "1024x1024",
+    "quality": "high",
+    "background": null,
+    "moderation": null,
+    "inputFidelity": null,
+    "outputFormat": "png",
+    "outputCompression": null,
+    "responseFormat": "b64_json",
+    "n": 1,
+    "imageCount": 0,
+    "hasMask": false
+  },
+  "runtime": {
+    "providerName": "codex",
+    "configuredModel": "gpt-5.5",
+    "responsesModel": "gpt-5.5",
+    "baseUrl": "https://cpa.marklunaai.com:25154/v1",
+    "configPath": "C:\\Users\\Administrator\\.codex\\config.toml",
+    "authPath": "C:\\Users\\Administrator\\.codex\\auth.json"
+  },
+  "response": {
+    "revisedPrompts": []
+  },
+  "saved": [
+    "D:\\03_work\\09_android\\MusicPlayer\\design\\elder_audiobook_icon.png"
+  ]
+}

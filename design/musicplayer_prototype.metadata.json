@@ -1,0 +1,33 @@
+{
+  "command": "generate",
+  "transport": "images",
+  "prompt": "Create a high-fidelity Android app product prototype screen for an elderly-friendly local audio player named \"MusicPlayer\". Portrait mobile UI, 1024x1536 composition, single app screen, not a marketing page.\n\nStyle: simple, bold, clean, high-contrast, large typography, warm light background, practical Android interface. Buttons should have subtle skeuomorphic raised or pressed texture: soft shadows, bevelled edges, tactile volume-knob style controls, slightly recessed slider track. Avoid cartoon style. Avoid dark blurred decorative background. Avoid tiny text.\n\nCore UI requirements to visibly communicate:\n1. Direct local folder browsing: show a top folder path area labelled in Chinese \"当前目录\" with path example \"存储 / Music / 评书\" and a large folder button \"选择目录\".\n2. Playback by directory: show a simple audio list for current folder with 3 large rows, first row highlighted as currently playing. Use Chinese audio file names such as \"第01回.mp3\", \"第02回.mp3\", \"第03回.mp3\".\n3. Auto continue to next folder: show a clear next-folder strip labelled in Chinese \"下个目录：相声精选\" and \"本目录播完自动继续\".\n4. Elderly operation: all text very large, generous spacing, high contrast, obvious icons.\n5. Sleep timer: show a large section labelled \"睡眠播放\" with a horizontal slider and four marks \"30\", \"60\", \"90\", \"120 分钟\". Default selected at 30 minutes. Include prominent text \"30 分钟后停止\".\n6. Playback controls: bottom area with large tactile raised buttons for previous, play/pause, next. The play button should be the largest. Add volume buttons if space allows.\n\nLayout: Android status bar at top, app header \"MusicPlayer\" large, then folder browser card, then audio list, then sleep timer, then bottom player controls. Use Chinese UI text for labels. Make it look like a real product prototype screenshot, crisp edges, realistic UI mockup. Keep colors balanced: off-white background, teal primary controls, amber highlight, charcoal text, light gray dividers.\n\nImportant: render the UI text as cleanly as possible, no lorem ipsum, no extra explanatory paragraphs, no brand logos other than MusicPlayer.",
+  "request": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "quality": "high",
+    "background": null,
+    "moderation": null,
+    "inputFidelity": null,
+    "outputFormat": "png",
+    "outputCompression": null,
+    "responseFormat": "b64_json",
+    "n": 1,
+    "imageCount": 0,
+    "hasMask": false
+  },
+  "runtime": {
+    "providerName": "codex",
+    "configuredModel": "gpt-5.5",
+    "responsesModel": "gpt-5.5",
+    "baseUrl": "https://cpa.marklunaai.com:25154/v1",
+    "configPath": "C:\\Users\\Administrator\\.codex\\config.toml",
+    "authPath": "C:\\Users\\Administrator\\.codex\\auth.json"
+  },
+  "response": {
+    "revisedPrompts": []
+  },
+  "saved": [
+    "D:\\03_work\\09_android\\MusicPlayer\\design\\musicplayer_prototype.png"
+  ]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <color name="musicplayer_background">#F5F7FA</color>
+    <color name="musicplayer_status">#05101D</color>
+</resources>

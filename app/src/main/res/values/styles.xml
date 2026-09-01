@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MusicPlayer" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/musicplayer_background</item>
+        <item name="android:statusBarColor">@color/musicplayer_status</item>
+        <item name="android:navigationBarColor">@color/musicplayer_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
